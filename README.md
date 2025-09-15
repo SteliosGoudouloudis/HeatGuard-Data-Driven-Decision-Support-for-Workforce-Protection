@@ -1,2 +1,2 @@
 # HeatGuard-Data-Driven-Decision-Support-for-Workforce-Protection
-A data pipeline collect , store and visualize historical and historical and real-time weather data across 5 cities, comparing predicted vs actual temperatures through Metabase 
+A data pipeline collect , store and visualize historical and prediction data across 5 cities comparing last 9 years, comparing predicted vs actual temperatures through Metabase.
